@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("This app can show to you one from seven colour Rainbow.");
-        System.out.println("Also you can make choice double-colour");
+        System.out.println("This app can to show to you one from seven colour Rainbow.");
+        System.out.println("Also you can to make choice double-colour");
         System.out.println("Enter the count of colours which you want to see (1 or 2)...");
 
         int countOfColours = new Scanner(System.in).nextInt();
