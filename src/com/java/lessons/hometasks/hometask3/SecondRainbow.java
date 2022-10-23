@@ -27,7 +27,8 @@ public class SecondRainbow {
                 return BLUE;
             case 7:
                 return PURPLE;
-            default: return "colour not found";
+            default:
+                return "colour not found";
         }
     }
 
