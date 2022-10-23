@@ -47,7 +47,7 @@ public class SecondRainbow {
         System.out.println("Enter the number of colour from 1 to 7:");
         int firstColour = new Scanner(System.in).nextInt();
         if (firstColour > 0 && firstColour < 8) {
-            System.out.println("Your color is " + printColour(firstColour));
+            System.out.println("Your colour is " + printColour(firstColour));
         } else {
             printIncorrectMessage();
         }
