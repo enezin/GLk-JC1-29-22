@@ -32,7 +32,7 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "It's name is " + name + ". It's age is " + age + " years old.";
+        return "His name is " + name + ". His age is " + age + " years old.";
     }
 
     @Override

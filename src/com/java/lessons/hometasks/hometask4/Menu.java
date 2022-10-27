@@ -5,7 +5,7 @@ public class Menu {
         int countOfCatsForWhile = 10;
         while (countOfCatsForWhile > 0) {
             Cat firstCats = new Cat();
-            System.out.println("It's name is " + firstCats.defaultName + ". It's age is " + firstCats.defaultAge + " years old.");
+            System.out.println("His name is " + firstCats.defaultName + ". His age is " + firstCats.defaultAge + " years old.");
             countOfCatsForWhile--;
         }
     }
@@ -18,7 +18,7 @@ public class Menu {
             secondCats.getName();
             secondCats.setAge(18);
             secondCats.getAge();
-            System.out.println("It's name is " + secondCats.getName() + ". It's age is " + secondCats.getAge() + " years old.");
+            System.out.println("His name is " + secondCats.getName() + ". His age is " + secondCats.getAge() + " years old.");
         }
     }
 
