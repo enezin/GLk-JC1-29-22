@@ -15,9 +15,7 @@ public class Menu {
         for (int i = 0; i < countOfCatsForFor; i++) {
             Cat secondCats = new Cat();
             secondCats.setName("Boris");
-            secondCats.getName();
             secondCats.setAge(18);
-            secondCats.getAge();
             System.out.println("His name is " + secondCats.getName() + ". His age is " + secondCats.getAge() + " years old.");
         }
     }
