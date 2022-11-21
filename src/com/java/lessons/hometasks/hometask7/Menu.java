@@ -3,7 +3,6 @@ package com.java.lessons.hometasks.hometask7;
 import java.util.Random;
 
 public class Menu implements AssemblyShop {
-
     Factory factory = new Factory();
     Factory.FactoryOfBodies factoryOfBodies = factory.getFactoryOfBodies();
     Factory.FactoryOfHeads factoryOfHeads = factory.getFactoryOfHeads();
