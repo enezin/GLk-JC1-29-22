@@ -1,0 +1,2 @@
+ID: 0	Count of products: 5	Total cost: 4.1499999999999995	Date of Creation: 29.11.2022 00:29:29
+ID: 1	Count of products: 4	Total cost: 4.76	Date of Creation: 29.11.2022 00:30:26
