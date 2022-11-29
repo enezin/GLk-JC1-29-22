@@ -1,0 +1,10 @@
+ID: 1	Product name: Apple	Cost: 0.79	Made in: Poland	Date of manufacture: 25-11-2022 21:25
+ID: 2	Product name: Orange	Cost: 1.19	Made in: Mexico	Date of manufacture: 26-11-2022 22:27
+ID: 3	Product name: Banana	Cost: 1.29	Made in: Australia	Date of manufacture: 26-11-2022 20:27
+ID: 4	Product name: Tomato	Cost: 0.59	Made in: Ukraine	Date of manufacture: 25-11-2022 20:26
+ID: 6	Product name: Onion	Cost: 0.29	Made in: Belarus	Date of manufacture: 24-11-2022 21:25
+ID: 6	Product name: Onion	Cost: 0.29	Made in: Belarus	Date of manufacture: 27-11-2022 22:29
+ID: 10	Product name: Bread	Cost: 0.99	Made in: Belarus	Date of manufacture: 27-11-2022 22:26
+ID: 7	Product name: Milk	Cost: 1.49	Made in: Belarus	Date of manufacture: 27-11-2022 20:28
+ID: 8	Product name: Butter	Cost: 1.99	Made in: Belarus	Date of manufacture: 26-11-2022 23:29
+
