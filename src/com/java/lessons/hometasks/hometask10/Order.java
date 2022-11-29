@@ -72,6 +72,7 @@ public class Order implements Processing {
 
     public void gettingFile() throws IOException {
         File file = Path.of("resources", "hometask10", "orderList.txt").toFile();
+        file.getParentFile().mkdirs();
         file.createNewFile();
         try (var reader = new BufferedReader(new FileReader(file));
              var writer = new BufferedWriter(new FileWriter(file, true))) {

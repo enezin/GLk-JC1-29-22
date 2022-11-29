@@ -78,6 +78,7 @@ public class Product implements Processing {
 
     public void gettingFile() throws IOException {
         File file = Path.of("resources", "hometask10", "profuctcInfo.txt").toFile();
+        file.getParentFile().mkdirs();
         file.createNewFile();
         try(var writer = new BufferedWriter(new FileWriter(file, true))){
             for (Product productPoint : order.getProducts()) {
